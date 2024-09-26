@@ -23,4 +23,8 @@ Robust Performance: The model excels across multiple classes, ensuring comprehen
 
 User-Friendly Interface: With Streamlit, we created an engaging platform where users can easily input data and receive predictions.
 
+##  📊 Results
+
+![results](https://github.com/user-attachments/assets/0d028100-5f83-40a5-b89c-2325067084d0)
+
 With growing concerns over cyber threats, this project highlights the potential of data-driven approaches in creating safer IoT ecosystems. Your feedback and contributions are welcome as we continue to enhance our model and its applications!
