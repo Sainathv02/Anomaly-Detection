@@ -23,6 +23,12 @@ Robust Performance: The model excels across multiple classes, ensuring comprehen
 
 User-Friendly Interface: With Streamlit, we created an engaging platform where users can easily input data and receive predictions.
 
+##  📁 Files
+
+`E2E_ML_Implementation.ipynb`: This Jupyter notebook covers the full ML pipeline, including data loading, EDA, feature engineering, model training, and saving the best model for inference.
+
+`main.py`: This script runs a Streamlit Web UI for model inference. Users can input the top 10 features, and the model predicts the class of attack.
+
 ##  📊 Results
 
 ![results](https://github.com/user-attachments/assets/0d028100-5f83-40a5-b89c-2325067084d0)
