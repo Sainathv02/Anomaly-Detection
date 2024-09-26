@@ -29,6 +29,8 @@ User-Friendly Interface: With Streamlit, we created an engaging platform where u
 
 `main.py`: This script runs a Streamlit Web UI for model inference. Users can input the top 10 features, and the model predicts the class of attack.
 
+`DATA245_Group5_Project_Report.pdf`: This document provides a comprehensive overview of the entire project, detailing methodologies, findings, and insights.
+
 ##  📊 Results
 
 ![results](https://github.com/user-attachments/assets/0d028100-5f83-40a5-b89c-2325067084d0)
